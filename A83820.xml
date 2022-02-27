@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Report of the committee of the charge against Mathew Wren, Bishop of Ely, to the House of Commons, July 5th, 1641 with the vote of the House taken hereupon.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83820</idno>
+            <idno type="STC">Wing E2704B</idno>
+            <idno type="STC">ESTC R172054</idno>
+            <idno type="EEBO-CITATION">42475415</idno>
+            <idno type="OCLC">ocm 42475415</idno>
+            <idno type="VID">151131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2245:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Report of the committee of the charge against Mathew Wren, Bishop of Ely, to the House of Commons, July 5th, 1641 with the vote of the House taken hereupon.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 2. p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wren, Matthew, 1585-1667 --  Trials, litigation, etc.</term>
+               <term>Church of England --  Bishops.</term>
+               <term>Church of England --  Liturgy --  Controversial literature.</term>
+               <term>Trials (Impeachment) --  England --  London.</term>
+               <term>Puritans --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151131:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>A REPORT OF THE COMMITTEE OF THE CHARGE AGAINST <hi>MATHEW WREN,</hi> Biſhop of <hi>Ely,</hi> to the Houſe of <hi>COMMONS, July</hi> 5th. 1641. With the Vote of the Houſe hereupon.</p>
+            <figure/>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151131:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="1" facs="tcp:151131:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>A Report of the <hi>Committee</hi> of the Charge againſt <hi>Mathew Wren,</hi> Biſhop of <hi>Ely</hi> to the Houſe of COMMONS, <hi>Iuly</hi> 5th. 1641.</head>
+            <list>
+               <item>1. THAT the ſayd <hi>Mathew Wren,</hi> Biſhop of <hi>Ely,</hi> hath Excommunicated, Depri<g ref="char:EOLhyphen"/>ved, or Baniſhed, within the ſpace of two yeares, fifty <hi>Godly, Learned,</hi> and <hi>painefull Miniſters.</hi>
+               </item>
+               <item>2. His Practiſing Superſtition in his owne per<g ref="char:EOLhyphen"/>ſon.</item>
+               <item>3. His cauſing the <hi>Communion Table</hi> to be placed Altar-wiſe, and to be Railed in, and Kneel<g ref="char:EOLhyphen"/>ing, and Conſecrating the Bread and Wine, at the Weſt ſide of the <hi>Communion Table,</hi> with his back towards the People, and bowing to, or before the ſame.</item>
+               <item>4. Elevating the Bread, and Wine, high over his head, that the People might ſee it.</item>
+               <item>5. Cauſing all the Pewes, or Seates, to be ſo contrived, as that the People muſt of neceſſity kneele with their faces towards the Eaſt.</item>
+               <item>6. Imployed his power to reſtraine powerfull Preaching, forbidding all Sermons on Sundayes after-noone, or in the weeke dayes, without his Lycence, and leaſt expounding the <hi>Catechiſme,</hi> and <hi>Common Prayer Booke,</hi> ſhould be as bad a Preach<g ref="char:EOLhyphen"/>ing, as he and ſome of his Officers ſayd; therefore he inhibits any manner of expoſition, and inioynes
+<pb n="2" facs="tcp:151131:3"/>
+                  <!-- PDF PAGE 27 -->onely the bare queſtion and anſwere in the <hi>Com<g ref="char:EOLhyphen"/>mon Prayer Booke.</hi>
+               </item>
+               <item>7. And to the end the People ſhall not know where there is any Sermons, Commands all Ringing of Bells to be alike, that ſo the People may not <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>guiſh where there is a Sermon, or where there is but Prayers.</item>
+               <item>8. He permitted no Prayer to be ſayd before Sermon, but that which is directed in the 39 Can<g ref="char:EOLhyphen"/>non, which hath no warrant of Law; and after Sermon ſuffers no Prayer at all, but onely <hi>Gloria Patri, &amp;c.</hi>
+               </item>
+               <item>9. He did publiſh a Booke of Articles, to which the <hi>Church Wardens</hi> were to be ſworne; and theſe thirty nine Articles containe at leaſt 897 Queſti<g ref="char:EOLhyphen"/>ons: One whereof was this. <hi>Doth any man diſ<g ref="char:EOLhyphen"/>courſe prophanely at meale time, touching</hi> Religion <hi>or the holy</hi> Scripture?</item>
+            </list>
+            <p>Another, <hi>Doth the</hi> Miniſter <hi>Expound the holy</hi> Scripture <hi>according to the ſenſe of the Ancient Fathers?</hi> Which Queſtions it is believed, would puzzle the deepeſt learned <hi>Church-Warden</hi> in <hi>England,</hi> to an<g ref="char:EOLhyphen"/>ſwere.</p>
+            <p>And after ſome time ſpent in the debate of the ſayd Articles, it was reſolved upon the queſtion, and Voted, that it is the opinion of this Houſe, that <hi>Mathew Wren</hi> Biſhop of <hi>Ely,</hi> is unworthy, and unfit, to hold or exerciſe any Office or Dignity, in the <hi>Church</hi> or <hi>Common-wealth.</hi> And further Vo<g ref="char:EOLhyphen"/>ted, that there be a Meſſage ſent to the Lords, to deſire them to joyne with the <hi>Commons,</hi> in Petiti<g ref="char:EOLhyphen"/>oning his <hi>Majeſty,</hi> to remove Biſhop <hi>Wren,</hi> both from his perſon, and Service.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
